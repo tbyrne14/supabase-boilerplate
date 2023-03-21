@@ -1,1 +1,7 @@
-/* Add screen styles below */
+table {
+    width: 60%;
+}
+
+td {
+    text-align: center;
+}
